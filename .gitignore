@@ -129,3 +129,4 @@ dmypy.json
 .pyre/
 /benckenv
 /Cs/.vscode
+/Xamarin/Benchmarks/.vs/Benchmarks/v16

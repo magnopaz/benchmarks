@@ -1,0 +1,20 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Benchmarks.MainPage">
+
+    <StackLayout>
+        <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
+            <Label Text="Yet Another Benckmark App" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+        </Frame>
+        <Label Text="Nothing to see here, just a benchmark tool" FontSize="16" Padding="30,0,30,0"/>
+        <Label x:Name="labelResults"
+               Text=""
+               Margin="0,10"/>
+        <Button x:Name="runBenchmark"
+                Clicked="runBenchmark_Clicked"
+                Margin="0,40,0,0"
+                Text="Run Benchmark"/>
+    </StackLayout>
+
+</ContentPage>

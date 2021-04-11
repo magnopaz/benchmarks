@@ -128,7 +128,7 @@ dmypy.json
 # Pyre type checker
 .pyre/
 /benckenv
-/Cs/.vscode
+/C#/.vscode
 /Xamarin/Benchmarks/.vs/Benchmarks/v16
 /Xamarin/Benchmarks/Benchmarks.Android/obj/
 /Xamarin/Benchmarks/Benchmarks.Android/bin/

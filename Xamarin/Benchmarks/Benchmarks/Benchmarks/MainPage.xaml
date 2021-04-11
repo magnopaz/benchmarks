@@ -5,7 +5,7 @@
 
     <StackLayout>
         <Frame BackgroundColor="#2196F3" Padding="24" CornerRadius="0">
-            <Label Text="Yet Another Benckmark App" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
+            <Label Text="Yet Another Benckmark App - Xamarin Version" HorizontalTextAlignment="Center" TextColor="White" FontSize="36"/>
         </Frame>
         <Label Text="Nothing to see here, just a benchmark tool" FontSize="16" Padding="30,0,30,0"/>
         <Label x:Name="labelResults"

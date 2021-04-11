@@ -1,1 +1,0 @@
-D:\Projetos\Benchmark\benchmarks\Xamarin\Benchmarks\Benchmarks\Benchmarks.UWP\Benchmarks.UWP.csproj;x86

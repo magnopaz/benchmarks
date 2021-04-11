@@ -1,0 +1,14 @@
+D:\Projetos\Benchmark\benchmarks\Xamarin\Benchmarks\Benchmarks\Benchmarks\bin\Debug\netstandard2.0\Benchmarks.deps.json
+D:\Projetos\Benchmark\benchmarks\Xamarin\Benchmarks\Benchmarks\Benchmarks\bin\Debug\netstandard2.0\Benchmarks.dll
+D:\Projetos\Benchmark\benchmarks\Xamarin\Benchmarks\Benchmarks\Benchmarks\bin\Debug\netstandard2.0\ref\Benchmarks.dll
+D:\Projetos\Benchmark\benchmarks\Xamarin\Benchmarks\Benchmarks\Benchmarks\bin\Debug\netstandard2.0\Benchmarks.pdb
+D:\Projetos\Benchmark\benchmarks\Xamarin\Benchmarks\Benchmarks\Benchmarks\obj\Debug\netstandard2.0\Benchmarks.csprojAssemblyReference.cache
+D:\Projetos\Benchmark\benchmarks\Xamarin\Benchmarks\Benchmarks\Benchmarks\obj\Debug\netstandard2.0\App.xaml.g.cs
+D:\Projetos\Benchmark\benchmarks\Xamarin\Benchmarks\Benchmarks\Benchmarks\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+D:\Projetos\Benchmark\benchmarks\Xamarin\Benchmarks\Benchmarks\Benchmarks\obj\Debug\netstandard2.0\Benchmarks.AssemblyInfoInputs.cache
+D:\Projetos\Benchmark\benchmarks\Xamarin\Benchmarks\Benchmarks\Benchmarks\obj\Debug\netstandard2.0\Benchmarks.AssemblyInfo.cs
+D:\Projetos\Benchmark\benchmarks\Xamarin\Benchmarks\Benchmarks\Benchmarks\obj\Debug\netstandard2.0\Benchmarks.csproj.CoreCompileInputs.cache
+D:\Projetos\Benchmark\benchmarks\Xamarin\Benchmarks\Benchmarks\Benchmarks\obj\Debug\netstandard2.0\XamlC.stamp
+D:\Projetos\Benchmark\benchmarks\Xamarin\Benchmarks\Benchmarks\Benchmarks\obj\Debug\netstandard2.0\Benchmarks.dll
+D:\Projetos\Benchmark\benchmarks\Xamarin\Benchmarks\Benchmarks\Benchmarks\obj\Debug\netstandard2.0\ref\Benchmarks.dll
+D:\Projetos\Benchmark\benchmarks\Xamarin\Benchmarks\Benchmarks\Benchmarks\obj\Debug\netstandard2.0\Benchmarks.pdb

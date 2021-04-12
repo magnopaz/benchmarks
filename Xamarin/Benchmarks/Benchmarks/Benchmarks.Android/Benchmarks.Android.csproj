@@ -16,7 +16,6 @@
     <AndroidManifest>Properties\AndroidManifest.xml</AndroidManifest>
     <MonoAndroidResourcePrefix>Resources</MonoAndroidResourcePrefix>
     <MonoAndroidAssetsPrefix>Assets</MonoAndroidAssetsPrefix>
-    <AndroidUseLatestPlatformSdk>false</AndroidUseLatestPlatformSdk>
     <TargetFrameworkVersion>v11.0</TargetFrameworkVersion>
     <AndroidEnableSGenConcurrent>true</AndroidEnableSGenConcurrent>
     <AndroidUseAapt2>true</AndroidUseAapt2>
@@ -88,7 +87,7 @@
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Benchmarks\Benchmarks.csproj">
-      <Project>{70E5A356-7738-42D8-AA2A-AC25AFEF89ED}</Project>
+      <Project>{66DCC097-5087-4FAA-BCEB-09B7D4AAF57F}</Project>
       <Name>Benchmarks</Name>
     </ProjectReference>
   </ItemGroup>

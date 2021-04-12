@@ -2142,43 +2142,32 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\magno\\.nuget\\packages\\": {},
-    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
-    "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {}
+    "/Users/magnodeoliveirapaz/.nuget/packages/": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Projetos\\Benchmark\\benchmarks\\Xamarin\\Benchmarks\\Benchmarks\\Benchmarks.Android\\Benchmarks.Android.csproj",
+      "projectUniqueName": "/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks.Android/Benchmarks.Android.csproj",
       "projectName": "Benchmarks.Android",
-      "projectPath": "D:\\Projetos\\Benchmark\\benchmarks\\Xamarin\\Benchmarks\\Benchmarks\\Benchmarks.Android\\Benchmarks.Android.csproj",
-      "packagesPath": "C:\\Users\\magno\\.nuget\\packages\\",
-      "outputPath": "D:\\Projetos\\Benchmark\\benchmarks\\Xamarin\\Benchmarks\\Benchmarks\\Benchmarks.Android\\obj\\",
+      "projectPath": "/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks.Android/Benchmarks.Android.csproj",
+      "packagesPath": "/Users/magnodeoliveirapaz/.nuget/packages/",
+      "outputPath": "/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks.Android/obj/",
       "projectStyle": "PackageReference",
       "skipContentFileWrite": true,
-      "fallbackFolders": [
-        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-        "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
-      ],
       "configFilePaths": [
-        "C:\\Users\\magno\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+        "/Users/magnodeoliveirapaz/.config/NuGet/NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "monoandroid11.0"
       ],
       "sources": {
-        "C:\\Nugetpackages": {},
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
         "monoandroid11.0": {
           "projectReferences": {
-            "D:\\Projetos\\Benchmark\\benchmarks\\Xamarin\\Benchmarks\\Benchmarks\\Benchmarks\\Benchmarks.csproj": {
-              "projectPath": "D:\\Projetos\\Benchmark\\benchmarks\\Xamarin\\Benchmarks\\Benchmarks\\Benchmarks\\Benchmarks.csproj"
+            "/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks/Benchmarks.csproj": {
+              "projectPath": "/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks/Benchmarks.csproj"
             }
           }
         }

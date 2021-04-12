@@ -1,0 +1,14 @@
+/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks/bin/Debug/netstandard2.0/Benchmarks.deps.json
+/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks/bin/Debug/netstandard2.0/Benchmarks.dll
+/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks/bin/Debug/netstandard2.0/ref/Benchmarks.dll
+/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks/bin/Debug/netstandard2.0/Benchmarks.pdb
+/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks/obj/Debug/netstandard2.0/Benchmarks.csprojAssemblyReference.cache
+/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks/obj/Debug/netstandard2.0/Benchmarks.AssemblyInfoInputs.cache
+/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks/obj/Debug/netstandard2.0/Benchmarks.AssemblyInfo.cs
+/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks/obj/Debug/netstandard2.0/Benchmarks.csproj.CoreCompileInputs.cache
+/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks/obj/Debug/netstandard2.0/XamlC.stamp
+/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks/obj/Debug/netstandard2.0/Benchmarks.dll
+/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks/obj/Debug/netstandard2.0/ref/Benchmarks.dll
+/Users/magnodeoliveirapaz/Projects/benchmarks/Xamarin/Benchmarks/Benchmarks/Benchmarks/obj/Debug/netstandard2.0/Benchmarks.pdb

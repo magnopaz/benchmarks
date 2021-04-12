@@ -144,3 +144,11 @@ dmypy.json
 /Xamarin/Benchmarks/Benchmarks/Benchmarks.UWP/bin/x86/Debug
 /Xamarin/Benchmarks/Benchmarks/Benchmarks.UWP/obj/x86/Debug/.winmd_cache
 /Xamarin/Benchmarks/Benchmarks/Benchmarks.UWP/obj/x86/Debug/embed
+Swift/benchmark/benchmark.xcodeproj
+Xamarin/Benchmarks/.vs/Benchmarks/xs
+Xamarin/Benchmarks/Benchmarks/Benchmarks/bin/
+Xamarin/Benchmarks/Benchmarks/Benchmarks.Android/obj/
+Xamarin/Benchmarks/Benchmarks/Benchmarks.Android/bin/
+Xamarin/Benchmarks/Benchmarks/Benchmarks.iOS/bin/
+Xamarin/Benchmarks/Benchmarks/Benchmarks.iOS/obj/
+Xamarin/Benchmarks/Benchmarks/Benchmarks/obj/
